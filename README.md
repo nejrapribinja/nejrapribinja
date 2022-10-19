@@ -1,4 +1,3 @@
-Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Nejra Pribinja</h1>
 <h3 align="center">I am a student of Information Technology in Sarajevo.</h3>
