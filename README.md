@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nejra Pribinja</h1>
-<h3 align="center">I am a student of Information Technology in Sarajevo.</h3>
+<h3 align="center">I'm a student of Information Technology in Sarajevo.</h3>
 
 - 📫 How to reach me **nejra.pribinja@gmail.com**
 
