@@ -16,7 +16,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nejrapribinja&theme=react" alt="GitHub Stats" width="35%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=nejrapribinja&show_icons=true&theme=react" alt="GitHub Stats" width="35%"/><br/>
   <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADEV-00&theme=react&layout=compact)](https://github.com/nejrapribinja/github-readme-stats" alt="GitHub Stats"  width="25%" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nejrapribinja&theme=react&layout=compact)](https://github.com/nejrapribinja/github-readme-stats" alt="GitHub Stats"  width="25%" /></p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
