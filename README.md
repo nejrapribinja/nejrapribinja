@@ -12,7 +12,7 @@
 </p>
 
 <p>
-  <b><em>Overall GitHub Stats:</em></b> <br/><br/>
+  <h3>Overall GitHub Stats:</h3> <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nejrapribinja&theme=react" alt="GitHub Stats" width="35%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=nejrapribinja&show_icons=true&theme=react" alt="GitHub Stats" width="35%"/><br/>
   <p>
