@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nejra Pribinja</h1>
 <h3 align="center">I'm a student of Information Technology in Sarajevo.</h3>
 <p align="center">
-  <h3>Overall GitHub Stats:</h3> <br/>
+  <h3 align="center">Overall GitHub Stats:</h3> <br/>
  <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nejrapribinja&theme=react" alt="GitHub Stats" width="35%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=nejrapribinja&show_icons=true&theme=react" alt="GitHub Stats" width="35%"/>
